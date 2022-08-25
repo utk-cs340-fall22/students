@@ -9,7 +9,7 @@ _____________________________________________
 ### Interests:
 #### In my free time I cook, play soccer, and go to the gym
 
-# Skils:
+## Skils:
   - C++
   - Javascript
   - Svelte
