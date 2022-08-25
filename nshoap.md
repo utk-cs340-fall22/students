@@ -1,6 +1,8 @@
 # Noah Shoap
 **Net ID**: nshoap
+
 **Github Username**: nshoap-utk
+
 **Major**: Computer Science
 
 ## Background
