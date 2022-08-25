@@ -7,4 +7,4 @@
 - Major: Computer Science
 
 ## About Me
-I am a 3rd year college student pursuing a degree in Computer Science who has lived in Knoxville for most of my life. My interests include video games, cooking, and [playing](https://en.wikipedia.org/wiki/Violin) [music](https://en.wikipedia.org/wiki/Piano).
+I am a 3rd year college student pursuing a degree in Computer Science who has lived in Knoxville for most of my life. My interests include video games, cooking, and [playing](https://en.wikipedia.org/wiki/Violin) [music](https://en.wikipedia.org/wiki/Piano). I can use C++ and Java. I hope to know C by the end of the semester.
