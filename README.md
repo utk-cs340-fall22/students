@@ -2,8 +2,8 @@
 
 1. Sign up for [GitHub](https://github.com/) if not already signed
      up. Pick default (free plan).
-1. [Fork](https://help.github.com/articles/fork-a-repo/) utk-cs340-spring22/students 
-        - Start by [**forking** the students repository](https://github.com/utk-cs340-spring22/students)
+1. [Fork](https://help.github.com/articles/fork-a-repo/) utk-cs340-fall22/students 
+        - Start by [**forking** the students repository](https://github.com/utk-cs340-fall22/students)
 1. Clone the repository to your computer (git clone https://github.com/yourGHid/students)
 1. Introduce yourself via a netid.md file (do not create netid.md, but replace netid by your own netid in all lowercase). Please provide some information about your background and interests. This should be kind of like a mini resume. It does not need all the details of a resume, but it must include the following elements:
      * The file must be a .md file using markdown format. Do not use embedded html.
@@ -21,6 +21,6 @@
     You may be asked to provide your email and name for the git client if you have not used git before 
 1. git push
 
-1. Now go to your fork (https://github.com/yourGHid/students) and click on [Create Pull Request](https://help.github.com/articles/using-pull-requests/) on [students repository](https://github.com/utk-cs340-spring22/students)
+1. Now go to your fork (https://github.com/yourGHid/students) and click on [Create Pull Request](https://help.github.com/articles/using-pull-requests/) on [students repository](https://github.com/utk-cs340-fall22/students)
 
 Note: The assignment is turned in by submitting a pull request. It is not turned in on Canvas.
