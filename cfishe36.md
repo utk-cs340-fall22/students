@@ -1,7 +1,7 @@
 # Caleb Fisher
-NetId: cfishe36
-GitHub username: cfisher36
-Major: Computer Science
+NetId: cfishe36  
+GitHub username: cfisher36  
+Major: Computer Science  
 
 ### Background and Interests:
 Hello, I'm currently a third-year computer science major with a minor in mathematics. I'm primarily interested in network architecture and
