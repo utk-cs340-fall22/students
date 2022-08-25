@@ -13,6 +13,7 @@ My name is Zack Malkmus and I am a junior pursuing a bachelors in computer scien
 - CSS
 - HTML
 - Javascript
+- jQuery
 - PHP
 - SQL
 - Wordpress
