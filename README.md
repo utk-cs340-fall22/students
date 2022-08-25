@@ -1,4 +1,4 @@
-## Due Sept XX before midnight: Github Pull Request
+## Due Sept 1 before midnight: Github Pull Request
 
 1. Sign up for [GitHub](https://github.com/) if not already signed
      up. Pick default (free plan).
@@ -22,3 +22,5 @@
 1. git push
 
 1. Now go to your fork (https://github.com/yourGHid/students) and click on [Create Pull Request](https://help.github.com/articles/using-pull-requests/) on [students repository](https://github.com/utk-cs340-spring22/students)
+
+Note: The assignment is turned in by submitting a pull request. It is not turned in on Canvas.
