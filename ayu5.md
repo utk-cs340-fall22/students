@@ -1,4 +1,4 @@
-#Intro to Alex Yu
+##Intro to Alex Yu
 ##Quick Summary
 - Name: Alex Yu
 - NetID: ayu5
