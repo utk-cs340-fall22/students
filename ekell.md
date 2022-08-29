@@ -2,7 +2,6 @@
 
 * netid: ekell
 * github: eli-kell
-* major: Computer Science
 
 ## Background & Interests
 
