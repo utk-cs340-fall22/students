@@ -1,6 +1,6 @@
 # Justin McKnight
 - netid: jmckni13
-- Github: JMcKnight75
+- Github: JMcknight75
 - Major: Computer Science
 
 ---
