@@ -14,5 +14,4 @@
 
 - C++
 - Python
-
-I am also learning C this semester in COSC360: [Class Webpage] (web.eecs.utk.edu/~huangi/cs360/index.html)
+- I am also learning C this semester in COSC360: [Class Webpage] (https://web.eecs.utk.edu/~cosc360/)
