@@ -1,4 +1,4 @@
-## Stuff About Me
+# Stuff About Me
 
 	* Name: Calvin Brown
 	* Netid: Cbrow217
