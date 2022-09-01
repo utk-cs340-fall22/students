@@ -1,7 +1,7 @@
 # Henry Brand
--netid: hbrand
--githib id: hbrandutk
--major: Computer Science
+- netid: hbrand
+- githib id: hbrandutk
+- major: Computer Science
 
 # Background
 I'm 21 years old and was born and raised in Memphis, my brother and I both moved to Knoxville for undergrad.
@@ -12,7 +12,7 @@ I'm 21 years old and was born and raised in Memphis, my brother and I both moved
 3. Film
 4. [Competitive Tetris](https://ch.tetr.io/)
 
-#S kills/Languages
+# Skills/Languages
 1. C/C++
 2. Python
 3. LUA
