@@ -21,9 +21,9 @@
 
 Background: I'm from Clarksville, TN and it's been that way for a long time. I'm a senior computer engineering, but most of my "career" has been in the field of computer science. I've had two internships, one at ORNL and one at a company called Asurion. I enjoy group work, but my schedule is a little crazy, so it's not uncommon to see me work on a project at 4 in the morning and be asleep in the afternoon. 
 
-Interests: Computers. Other than that I think cloud services are cool. Game development is pretty cool too, wouldn't wanna work professionally in the field though. I like front-end design a lil too.
+Interests: Computers. Other than that I think cloud services are cool. Game development is pretty cool too, wouldn't wanna work professionally in the field though. I like front-end design a lil too. Currently I'm taking a machine learning class, but I really hope we're not expecting to do anything like deep learning for a project in this class.
 
 ### A Useless Link
 
-https://volweb2.utk.edu/~cbrow217/
+https://volweb2.utk.edu/~cbrow217/ (Hopefully this counts as HTML experience for all y'all front-end devs out there)
 
