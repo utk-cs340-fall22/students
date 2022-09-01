@@ -21,7 +21,7 @@ My Interests:
 - Thrifting
 - Community Service
 
-For the most part, I think my interests say a lot about what kind of person I am/want to be but they are constantly changing as I grow into myself.
+For the most part, I think my interests say a lot about what kind of person I am/want to be, but they are constantly changing as I grow into myself.
 
 I am at least _roughly_ familiar with the following programming languages:
 - C++
