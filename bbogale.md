@@ -1,10 +1,10 @@
 # About me
 
-Name: Befikir Teferi Bogale
-Alias: B
-Netid: bbogale
-Username: yejashi
-Major: Computer Science
+* Name: Befikir Teferi Bogale
+* Alias: B
+* Netid: bbogale
+* Username: yejashi
+* Major: Computer Science
 
 ## Background
 Hello everyone, my name is Befikir, people usually call me B. One of my favourite hobbies is either tinkering with computers
