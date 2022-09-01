@@ -1,7 +1,7 @@
 # Dylan Lewis
-UTK netid: dlewis37
-Github ID: dylanbl
-Preferred Name: Dylan 
+*UTK netid: dlewis37
+*Github ID: dylanbl
+*Preferred Name: Dylan 
 
 ## Bio
 
