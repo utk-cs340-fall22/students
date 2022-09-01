@@ -1,6 +1,8 @@
 # Ryland Seagraves
 UT netid: rseagrav
+
 Github username: Ryland-Seagraves
+
 Major: Computer Science
 
 Background: I have always been interested in messing with computers and computer hardware since I was a child, this has remained unchanged since 1st grade (to my knowledge, may be earlier). I pride myself on being a menace to TA's, I will do every assignment correctly and submitted on time, but will always get TA comments such as "Why would you solve it that way?" and "How does this run fast?"
