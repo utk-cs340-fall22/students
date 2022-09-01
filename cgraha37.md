@@ -13,9 +13,9 @@ Hello, I'm Christian! I decided to switch from computer engineering to computer 
 My Interests:
 - House Plants
 - Cartoons and Anime
- - [Here's](https://myanimelist.net/animelist/6lack_naruto) a list of the anime I've seen
+  - [Here's](https://myanimelist.net/animelist/6lack_naruto) a list of the anime I've seen
 - Music
- - All kinds, mostly rap and R&B
+  - All kinds, mostly rap and R&B
 - Creating
 - Being Active
 - Thrifting
