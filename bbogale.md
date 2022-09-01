@@ -13,7 +13,7 @@ I find industrial machines particularly interesting and would love to be one of 
 
 ## Interests
 As stated before, i would love develop software for industrial machines. Let me expand on why i find that so enthralling.
-I once saw a robotic arm build the hull of a car entirely autonomously in high school. The experience has captured my thoughts ever
+I once saw a robotic arm build the frame of a car entirely autonomously in high school. The experience has captured my thoughts ever
 since. I often find myself imagining programming an abstract machine that could could do any general task asked of it. From building an
 entire car by itself to an army of its copies constructing mega structures from a simple command. I realize this is in the realm of science 
 fiction at this point in time, but the very idea of its possibility is delightful to me. I would love to be on the front lines on the developments
