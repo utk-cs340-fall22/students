@@ -2,7 +2,7 @@
 # Paige King #
 
 - netid: pking19
-- GitHub username: pking19
+- GitHub username: PaigeKing
 - Major: computer science
 
 ## Background and Interests ##
