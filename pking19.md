@@ -14,5 +14,3 @@ I'm from Bon Aqua, TN and have a twin sister that goes to college on the opposit
 - C++
 - Git
 - hopefully more by the end of this class
-
--
