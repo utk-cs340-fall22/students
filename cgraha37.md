@@ -23,10 +23,13 @@ My Interests:
 
 For the most part, I think my interests say a lot about what kind of person I am/want to be, but they are constantly changing as I grow into myself.
 
-I am at least _roughly_ familiar with the following programming languages:
+I am at least _roughly_ familiar with the following programming languages/tools:
 - C++
 - Python
 - Javascript
+- HTML
+- CSS
+- Markdown
 - Will soon be familiar with C
 
 _Thank you for reading!_
