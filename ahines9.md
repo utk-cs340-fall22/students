@@ -5,10 +5,10 @@ My Net ID is ahines9 and my github username is mdew-abc. I'm a computer science 
 I swam for many years and currently coach in the summer, as well as the Stem highschool team. I also like to play guitar
 A link to [Ultimate Guitar](https://www.ultimate-guitar.com) a webpage for learning new songs.
 ## Coding Experience
-*C++
-*Python
-*Unity
-*CSS
-*HTML
-*Java
-*Git
+* C++
+* Python
+* Unity
+* CSS
+* HTML
+* Java
+* Git
