@@ -1,9 +1,9 @@
 # Christian Graham - CS340 - Assignment 1
 
-Preferred Name : Christian   
-NetID          : cgraha37   
+Preferred Name<pre> </pre>: Christian   
+NetID<pre>          </pre>: cgraha37   
 GitHub Username: cgraha37   
-Major          : Computer Science   
+Major<pre>          </pre>: Computer Science   
 
 
 ### About Me
