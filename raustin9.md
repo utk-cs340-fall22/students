@@ -1,7 +1,7 @@
 ## Reagan Austin
 
 1. My name is Reagan Austin, but I go by Alex
-1. I am a Junior computer science student here at UTK
+1. I am a Junior computer science student here at UTK, and I had an internship at the Sustainable Future Center this summer.
 1. My interests include 
   * Web Development
   * Tennis
