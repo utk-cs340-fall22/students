@@ -3,7 +3,7 @@ Sean Kerzel, netid: skerzel, githubUsername:skerzel, major:Computer Science
 
 Background: I'm from Nashville and I was born in Boston from a family of 4 with 2 dogs.
 
-
+ hi
 Interests:
 - [x] Dogs
 - [] Video Games
